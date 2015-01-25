@@ -17,4 +17,7 @@ For each record it is provided:
 - A 561-feature vector with time and frequency domain variables. 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
+- 
+For the purpose of this assignment the data was collected, merged both test and train data, then from the merged data only the Mean and STD ( standard deviation) data was kept and represented as the final result for the Tidy_data_set.
+
 
